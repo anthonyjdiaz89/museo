@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729105981443",
+    "project_id": "museo-valledupar",
+    "storage_bucket": "museo-valledupar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729105981443:android:b3bc87f0ad54ff23216e36",
+        "android_client_info": {
+          "package_name": "com.mycompany.museo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABH-2uS6laTSmnJfF0NB2a8bq5OhS8V8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
